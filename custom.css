@@ -1,0 +1,16 @@
+img {
+   width: 10%;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.carousel-indicators li { visibility: hidden; }
